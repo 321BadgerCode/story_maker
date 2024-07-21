@@ -56,7 +56,6 @@ python ./main.py
 
 **Command Line Arguments**:
 
-> [!NOTE]
 > The lora models should be separated by comma, so like `python ./main.py -l <lora:model:1>,<lora:other_model:1>`.
 
 |	Argument		|	Description					|
