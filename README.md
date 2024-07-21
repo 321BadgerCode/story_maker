@@ -5,7 +5,7 @@
 <h1 align="center">Story Maker</h1>
 
 <p align="center">
-	<strong>Creates stories with images with AI API's!</strong>
+	<strong>Creates stories with images by using AI API's!</strong>
 </p>
 
 ## 🚀 Overview
