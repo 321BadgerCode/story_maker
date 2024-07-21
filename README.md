@@ -41,7 +41,7 @@ cd ./story_maker/
 
 </details>
 
-## 📝 Usage
+## 📈 Usage
 
 To use the Story Maker, there is only **one** step!
 
